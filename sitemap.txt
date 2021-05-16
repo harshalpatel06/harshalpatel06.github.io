@@ -1,0 +1,4 @@
+https://harshalpatel06.github.io/
+https://harshalpatel06.github.io/?/example
+https://harshalpatel06.github.io/?/example/two-deep&field1=foo~and~field2=bar#boom!
+https://harshalpatel06.github.io/?/sitemap-link-generator
