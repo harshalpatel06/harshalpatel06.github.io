@@ -29,6 +29,13 @@ export const Home: React.VFC = () => (
     </P>
     <P>
       <LinkContainer>
+        <InteractiveLink to="/forex">Forex</InteractiveLink>
+      </LinkContainer>
+      {/* <LinkContainer>
+        <InteractiveLink to="/github">Github Dashboard</InteractiveLink>
+      </LinkContainer> */}
+
+      <LinkContainer>
         <InteractiveLink to="/example">Example page</InteractiveLink>
       </LinkContainer>
       <LinkContainer>

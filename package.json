@@ -8,14 +8,16 @@
     "build": "webpack -p"
   },
   "repository": {
-    "type": "git",    
+    "type": "git",
     "url": "git+https://github.com/harshalpatel06/harshalpatel06.github.io.git"
   },
   "author": "Harshal Patel <harshalpatel06@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@apollo/client": "^3.3.19",
     "@radix-ui/react-icons": "^1.0.3",
     "@stitches/react": "^0.1.9",
+    "graphql": "^15.5.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
