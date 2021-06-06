@@ -11,6 +11,8 @@ const breadCrumbTitles: breadCrumbTitlesInterface = {
   example: 'Example',
   'two-deep': 'Two Deep',
   'sitemap-link-generator': 'Sitemap Link Generator',
+  github: 'Github',
+  forex: 'Forex',
 };
 
 const BreadcrumbsItem: React.VFC<RouteComponentProps> = ({ match }) => {
